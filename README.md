@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-I'm a professional software engineer and I like to contribute to free software and open source in general in my spare time.
+I'm a professional software engineer and I like contributing to free software and open source in general in my spare time.
 
 I've made small contributions to several projects over the years. I also contribute by open sourcing a few projects of mine:
 
