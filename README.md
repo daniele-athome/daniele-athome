@@ -9,3 +9,4 @@ I've made small contributions to several projects over the years. I also contrib
 * :framed_picture: An [Immich add-on for syncing birth dates with contacts from a CardDAV server](https://github.com/daniele-athome/immich-carddav-sync) - by the way I contributed the birth date feature on Immich so you can blame me for that :sweat_smile:
 * :small_airplane: A very opinionated [Flutter app for small groups of aircraft owners](https://github.com/daniele-athome/airborne)
 * :package: An [apt repository with a few packages I build](https://github.com/daniele-athome/my-debian-packages)
+* :small_airplane: (Italian only) [Un'applicazione Android per l'esame di pilota VDS](https://github.com/daniele-athome/esamevds-android)
